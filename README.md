@@ -12,9 +12,11 @@ En este mismo vemos el uso de Base de datos, atraves de:
 </p>
 
 con la API de:
-<a>
-  <img src="https://skillicons.dev/icons?i=postman" />
-</a>
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+</p>
 
 
 Tambien aprendimos a realizar diseños de modelos entidad relacion y diagramas entidad relacion.
