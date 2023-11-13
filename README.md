@@ -11,6 +11,12 @@ En este mismo vemos el uso de Base de datos, atraves de:
   </a>
 </p>
 
+con la API de:
+<a>
+  <img src="https://skillicons.dev/icons?i=postman" />
+</a>
+
+
 Tambien aprendimos a realizar diseños de modelos entidad relacion y diagramas entidad relacion.
 Usando como herramienta MySQL Workbech.
 
