@@ -42,7 +42,6 @@ const deleteAlumno = (request, response) => {
 }
 
 const updateAlumno = (request, response) => {
-    // const matricula = request.params.matricula;
     const {nombre,apellido,telefono,delegado,asignaturaId,cursoId} = request.body;
     connection.query("UPDATE alumno SET nombre = ?, apellido = ?, telefono = ?, delegado = ?, asignaturaId = ?, cursoId = ? WHERE matricula = ?", [nombre,apellido,telefono,delegado,asignaturaId,cursoId, request.params.matricula], 
     (err, result) => {
